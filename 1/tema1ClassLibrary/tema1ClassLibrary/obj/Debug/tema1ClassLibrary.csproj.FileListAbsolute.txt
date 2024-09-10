@@ -1,0 +1,5 @@
+E:\учебная практика\Лабы\1\tema1ClassLibrary\tema1ClassLibrary\obj\Debug\tema1ClassLibrary.csproj.CoreCompileInputs.cache
+E:\учебная практика\Лабы\1\tema1ClassLibrary\tema1ClassLibrary\bin\Debug\tema1ClassLibrary.dll
+E:\учебная практика\Лабы\1\tema1ClassLibrary\tema1ClassLibrary\bin\Debug\tema1ClassLibrary.pdb
+E:\учебная практика\Лабы\1\tema1ClassLibrary\tema1ClassLibrary\obj\Debug\tema1ClassLibrary.dll
+E:\учебная практика\Лабы\1\tema1ClassLibrary\tema1ClassLibrary\obj\Debug\tema1ClassLibrary.pdb

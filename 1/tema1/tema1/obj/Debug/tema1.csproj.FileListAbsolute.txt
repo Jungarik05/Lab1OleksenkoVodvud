@@ -1,0 +1,49 @@
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\bin\Debug\tema1.exe.config
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\bin\Debug\tema1.exe
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\bin\Debug\tema1.pdb
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.csprojAssemblyReference.cache
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.Form1.resources
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.Properties.Resources.resources
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.csproj.GenerateResource.cache
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.csproj.CoreCompileInputs.cache
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.exe
+E:\рпм\Практика 3-й курс 2024\ебаш альбина ебаш\тема 1\tema1\tema1\obj\Debug\tema1.pdb
+E:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1.exe.config
+E:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1.exe
+E:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1.pdb
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csprojAssemblyReference.cache
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.Form1.resources
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.Properties.Resources.resources
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.GenerateResource.cache
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.CoreCompileInputs.cache
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.exe
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.pdb
+E:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1ClassLibrary.dll
+E:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1ClassLibrary.pdb
+E:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.CopyComplete
+G:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1.exe.config
+G:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1.exe
+G:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1.pdb
+G:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1ClassLibrary.dll
+G:\учебная практика\Лабы\1\tema1\tema1\bin\Debug\tema1ClassLibrary.pdb
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.AssemblyReference.cache
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.Form1.resources
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.Properties.Resources.resources
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.GenerateResource.cache
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.CoreCompileInputs.cache
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.csproj.CopyComplete
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.exe
+G:\учебная практика\Лабы\1\tema1\tema1\obj\Debug\tema1.pdb
+E:\учебная практика\1\tema1\tema1\bin\Debug\tema1.exe.config
+E:\учебная практика\1\tema1\tema1\bin\Debug\tema1.exe
+E:\учебная практика\1\tema1\tema1\bin\Debug\tema1.pdb
+E:\учебная практика\1\tema1\tema1\bin\Debug\tema1ClassLibrary.dll
+E:\учебная практика\1\tema1\tema1\bin\Debug\tema1ClassLibrary.pdb
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.csprojAssemblyReference.cache
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.Form1.resources
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.Properties.Resources.resources
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.csproj.GenerateResource.cache
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.csproj.CoreCompileInputs.cache
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.csproj.CopyComplete
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.exe
+E:\учебная практика\1\tema1\tema1\obj\Debug\tema1.pdb
